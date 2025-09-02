@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn                  # For enhanced plots (used, but optional)
+stable-baselines3
+gymnasium
+tqdm
+pillow                   # For GIF export via matplotlib.animation
+jupyter                  # For running as a notebook
+ipython                  # For interactive/inline notebook use
+opencv-python            # Optional; for image IO/mask export if needed
