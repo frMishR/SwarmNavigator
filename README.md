@@ -76,18 +76,6 @@ SwarmNavigator/
 
 ---
 
-## Phase Breakdown
-
-| Phase                        | Hours | Description                                                               |
-|------------------------------|-------|---------------------------------------------------------------------------|
-| Environment & Visualization  | 2     | Gridworld definition, manual movement, collision logic, trajectory plots   |
-| RL Agent Integration         | 3     | SB3 (PPO/DQN) wrapping, reward shaping, reward curve plotting              |
-| Multi-Agent Swarm Extension  | 2.5   | Parallel agent logic, inter-agent collision, color-coded multi-agent plots  |
-| Demo Export & Polish         | 1.5   | Animated rollout export (GIF/MP4), final analysis, notebook refactoring     |
-| **Total**                    | 9     | End-to-end from empty repo to complete, demo-ready project                 |
-
----
-
 ## Results
 
 ### 1. Performance Comparison
