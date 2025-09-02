@@ -1,8 +1,7 @@
 # SwarmNavigator
 
 Decentralized Multi-Agent Coverage & Obstacle Avoidance in 2D Gridworlds (Reinforcement Learning Framework)  
-Ayushman Mishra (`frMishR`)  
-1 September 2025
+Ayushman Mishra (`frMishR`)
 
 ---
 
@@ -15,12 +14,13 @@ All code, results, and visualizations are contained in a single Jupyter notebook
 
 ## Project Structure
 
+```text
 SwarmNavigator/
 ├── dqn_logs/            # Training logs and rewards for DQN runs
 ├── ppo_logs/            # Training logs and rewards for PPO runs
 ├── ppo_swarm_logs/      # Logs for PPO-trained swarm agents
-├── results/             # Output: GIFs
-├── SwarmNavigator.ipynb
+├── results/             # Output: GIFs (demo episodes, coverage maps)
+├── SwarmNavigator.ipynb # Main Jupyter Notebook (all code + documentation)
 ├── .gitattributes
 ├── .gitignore
 ├── LICENSE
@@ -146,7 +146,7 @@ The code is modular for additional agents, reward functions, or RL algorithms.
 Robotics & Reinforcement Learning Engineer  
 Arizona State University  
 [GitHub: frMishR](https://github.com/frMishR)  
-Email (University): [amish141@asu.edu]
+Email (University): [amish141@asu.edu]  
 Email (Personal): [4yxmi0@gmail.com]
 
 ---
