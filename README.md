@@ -144,9 +144,8 @@ MIT License. See `LICENSE` for details.
 | Total Lines of Code     | ~900+                                 |
 | RL Algorithms           | PPO, DQN, Random Baseline             |
 | Max Swarm Size          | 4 Agents (parallel)                   |
-| Visualization Outputs   | 20+ (plots, GIFs, MP4)                |
+| Visualization Outputs   | 20+ (plots, GIFs)                     |
 | Training Log Folders    | dqn_logs, ppo_logs, ppo_swarm_logs    |
-| Project Duration        | ~9–11 hours (core to polish)          |
 | Reproducibility         | 100% (Colab/local, no data needed)    |
 
 ---
